@@ -31,6 +31,15 @@
 // Husk komma mellem objekterne, og stav propertynavnene præcist.
 // ✏️ Skriv dit array her ↓
 
+const fruist = [Apple, Nanana, Orange, Strawberry, Kiwi] = [
+    {name: `Apple`, emoji: `🍎`, color: Red},
+    {name: `Banana`, emoji: `🍌`, color: Yellow},
+    {name: `Orange`, emoji: `🍊`, color: Orange},
+    {name: `Strawberry`, emoji: `🍓`, color: Red}
+    {name: `Kiwi`, emoji: `🥝`, color: Green}
+];
+   
+
 
 // 💬 Forklar forskellen mellem et array og et objekt.
 
